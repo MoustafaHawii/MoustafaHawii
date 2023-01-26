@@ -1,35 +1,47 @@
-### Hi there 👋
 
-Hello My name is Moustafa Hawi
+### 
+    hey there 👋
 
-In my repositories you will find a few projects in Java, Python, Ruby and html/css/js.<br>
-Here you will find some stuff abount my projects.
 
-Languages I code with:
-  -Java: <br>
-  -Ruby: <br>
-  -Ruby on Rails <br>
-  -Python: <br>
-  -JavaScript: <br>
-  -HTML & CSS: 
+<div align="center"> <img src= "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-[Snake Java](https://github.com/MoustafaHawii/SnakeJava):<br>
-Java
+---
 
-[CoffeeMachine](https://github.com/MoustafaHawii/CoffeMachine) & [TemparaturConverter](https://github.com/MoustafaHawii/TemparaturConverter):<br>
-Java
 
-[MoustafaHawii.github.io](MoustafaHawii.github.io):<br>
-HTML / CSS / JS
 
-[Taxiunternehmen](https://github.com/MoustafaHawii/Taxiunternehmen):<br>
-Java (Maven) / HTML / JSon
+### 🌿About Me:
 
-[Tic-tac-toe-game](https://github.com/MoustafaHawii/Tic-tac-toe-game) & [snake_ruby](https://github.com/MoustafaHawii/snake_ruby) & [hangman_ruby](https://github.com/MoustafaHawii/hangman_ruby):<br>
-Ruby
+- 👨‍💻 My name is Moustafa. I am in my third year of Software Development.
 
-[pythonGames](https://github.com/MoustafaHawii/pythonGames) & [turtle](https://github.com/MoustafaHawii/tutle):<br>
-Python / Python (turtle)
+---
 
-[WordCounter](https://github.com/MoustafaHawii/WordCounter):<br>
-Java
+### 💻 Languages and Tools:
+
+* Java
+* Python
+* JavaScript
+* Git
+* html
+* css
+* bash
+* PHP
+* Ruby
+
+---
+
+
+
+### 🔥My Stats:
+
+---
+
+
+
+[
+    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoustafaHawii&theme=icegray&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+[
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaHawii)](https://github.com/anuraghazra/github-readme-stats)
