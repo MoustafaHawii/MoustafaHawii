@@ -1,13 +1,9 @@
-### 
-    hey there 👋
-
+#### hey there 👋
 
 <div align="center"> <img src= "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
-
-
 
 ### 🌿About Me:
 
@@ -29,13 +25,9 @@
 
 ---
 
-
-
 ### 🔥My Stats:
 
 ---
-
-
 
 [
     ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoustafaHawii&theme=icegray&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
