@@ -1,38 +1,14 @@
-# :wave: Hello there! I am MoustafaHawii,
 
-<div align="center"> <img src= "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+#  :city_sunrise: Hello there! I am MoustafaHawii,
 
----
+:wave: a driven software developer. I am currently in the middle of an exciting internship in Zurich, Switzerland. 
 
-### 🌿About Me:
+:mortar_board: The foundation of my understanding of technology and economics was built over the past three years at Kantonschule Hottigen and Bildungszentrum Zürichsee.
 
-- 👨‍💻 My name is Moustafa. I am in my third year of Software Development.
+:desktop_computer: As a developer intern, I am actively involved in planning and contributing to challenging and inspiring projects. 
 
----
+:rocket: In addition to coding, I am dedicated to personal growth. My aim is to not only improve my technical skills but also develop strong social and professional abilities. 
 
-### 💻 Languages and Tools:
-
-* Java
-* Python
-* JavaScript
-* Git
-* html
-* css
-* bash
-* PHP
-* Ruby
+:globe_with_meridians: Let's connect and collaborate on exciting projects! I'm eager to learn, exchange ideas and contribute to the community.
 
 ---
-
-### 🔥My Stats:
-
----
-
-[
-    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoustafaHawii&theme=icegray&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
-[
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaHawii)](https://github.com/anuraghazra/github-readme-stats)
