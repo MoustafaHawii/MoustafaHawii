@@ -12,3 +12,7 @@
 :globe_with_meridians: Let's connect and collaborate on exciting projects! I'm eager to learn, exchange ideas and contribute to the community.
 
 ---
+
+## :toolbox: Languages and tools
+
+![alt Java](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png)
