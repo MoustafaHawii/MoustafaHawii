@@ -15,11 +15,17 @@
 
 ## :toolbox: Languages and tools
 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" style="width:100px">
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" alt="Python" style="width:100px">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" style="width:100px">
-<img src="https://www.softorks.com/Images/css.jpg" alt="CSS" style="width:100px">
-<img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" alt="Bash" style="width:100px">
-<img src="https://daffyta.github.io/assets/img/icono/git.png" alt="git" style="width:100px">
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244353/powershell-icon-md.png" alt="PowerShell" style="width:100px">
-<img src="https://azure.microsoft.com/svghandler/sql-database?width=600&amp;height=315" alt="SQL" style="width:100px">
+<table>
+  <tr>
+    <td><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" style="width:100px"></td>
+    <td><img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" alt="Python" style="width:100px"></td>
+    <td><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" style="width:100px"></td>
+    <td><img src="https://www.softorks.com/Images/css.jpg" alt="CSS" style="width:100px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo.png" alt="Bash" style="width:100px"></td>
+    <td><img src="https://daffyta.github.io/assets/img/icono/git.png" alt="git" style="width:100px"></td>
+    <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244353/powershell-icon-md.png" alt="PowerShell" style="width:100px"></td>
+    <td><img src="https://azure.microsoft.com/svghandler/sql-database?width=600&amp;height=315" alt="SQL" style="width:100px"></td>
+  </tr>
+</table>
