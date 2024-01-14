@@ -56,7 +56,8 @@
 
 ---
 
-### :terminal: PowerShell 
+### :desktop_computer: PowerShell 
+
 <p>Introduced to PowerShell during my internship. Found it incredibly useful for complex tasks.</p>
 
 `1 year of experience`
