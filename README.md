@@ -13,6 +13,13 @@
 
 ---
 
-## :toolbox: Languages and tools
+## :toolbox: Technologies & Tools
 
+### :coffee: Java 
+![Java Icon](<a href="https://www.flaticon.com/free-icons/java" title="java icons"></a>)
+<p>Java was my first programming language at school, covering everything from loops and queries to OOP and MVC using Java Swing.</p>
+
+`4 years of experience`
+
+---
 
